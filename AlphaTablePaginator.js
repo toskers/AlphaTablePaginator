@@ -6,7 +6,7 @@
 * Version 1.0 (06/12/2011)
 * Requires jquery 1.2.6 or higher
 *
-*
+* Usage: $("#table id").AlphaTablePaginator();
 */
 
 (function( $ ){
